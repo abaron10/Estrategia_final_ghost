@@ -1,3 +1,8 @@
+# Configuracion Inicial:
+  1. En el archivo monkey-config.json configure la ruta del front de su aplicacion Ghost
+  2. En el archivo smart-monkey-config.json configure la ruta del front de su aplicacion Ghost 
+
+# Documentacion del codigo utilizado en este proyecto: De tercero:
 # Cypress Random Tester (Monkey)
 This repository contains the code for a random tester developed using [Cypress](https://www.cypress.io/). Two versions are developed, including a full random tester and a smarter random tester, and the differences between these two remain in the type of commands that each can execute. The detail is explained in sections below
 
