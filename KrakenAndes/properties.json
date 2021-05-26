@@ -1,0 +1,43 @@
+{
+    "@user1": {
+        "USER1": "af.baron10@uniandes.edu.co",
+        "PASSWORD1": "Juanpablo1",
+        "URI": "http://localhost:2371/ghost/#/signin",
+        "EDITORPOST":"http://localhost:2371/ghost/#/editor/post",
+        "POST":"http://localhost:2371/ghost/#/posts",
+        "PAGINAFRONT":"http://localhost:2371/",
+        "POSTPUBLISHET":"http://localhost:2371/ghost/#/posts?type=published",
+        "TAGS":"http://localhost:2371/ghost/#/tags",
+        "TAGSNEW":"http://localhost:2371/ghost/#/tags/new",
+        "PAGES":"http://www.localhost:2371/ghost/#/pages"
+    },
+    "@user2": {
+        "USER1": "af.baron10@uniandes.edu.co",
+        "PASSWORD1": "Juanpablo1",
+        "URI": "http://localhost:2371/ghost/#/signin",
+        "POST":"http://localhost:2371/ghost/#/posts",
+        "PAGES":"http://www.localhost:2371/ghost/#/pages"
+    },
+    "@user3": {
+        "USER1": "af.baron10@uniandes.edu.co",
+        "PASSWORD1": "Juanpablo1",
+        "URI": "http://localhost:2371/ghost/#/signin",
+        "WELCOME":"http://localhost:2371/welcome/",
+        "PAGES":"http://www.localhost:2371/ghost/#/pages"
+    },
+    "@user4": {
+        "USER1": "af.baron10@uniandes.edu.co",
+        "PASSWORD1": "Juanpablo1",
+        "URI": "http://localhost:2371/ghost/#/signin",
+        "WELCOME":"http://localhost:2371/welcome/",
+        "PAGES":"http://www.localhost:2371/ghost/#/pages",
+        "GHOSTNICKNAME":"dw"
+    },
+    "@user5": {
+        "USER1": "af.baron10@uniandes.edu.co",
+        "PASSWORD1": "Juanpablo1",
+        "URI": "http://localhost:2371/ghost/#/signin",
+        "TAGS":"http://localhost:2371/ghost/#/tags",
+        "PAGES":"http://www.localhost:2371/ghost/#/pages"
+    }
+}
