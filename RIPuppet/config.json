@@ -1,0 +1,12 @@
+{
+    "url": "http://localhost:2368/ghost/",
+    "headless": true,
+    "depthLevels": 4,
+    "inputValues": false,
+    "values": {"ember8": "j.carvajalm@uniandes.edu.co",
+        "ember10": "mfYyHi8q.Mix@r#",
+        "passwordTwoInput": "mfYyHi8q.Mix@r#",
+        "nameInput": "j.carvajalm@uniandes.edu.co",
+        "emailInput": "j.carvajalm@uniandes.edu.co"},
+    "browsers": ["chromium", "webkit", "firefox"]
+}
