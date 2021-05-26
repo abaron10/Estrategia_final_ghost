@@ -10,7 +10,7 @@ npm install
 
 ```
 
-En el archivo config.json remplaze los parametros por el email y contraseña registrado en su aplicativo Ghost
+En el archivo config.json remplaze los parametros por la url, email y contraseña registrado en su aplicativo Ghost
 
     "url": "http://localhost:2368/ghost/",
     "headless": true,
