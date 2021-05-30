@@ -13,6 +13,7 @@ repositorio para la sustentacion de la Estrategia final del Aplicativo Ghost 3.4
   4. RIPuppet: contiene las pruebas desarrolladas para exploracion sistematica.
   5. VRT: carpeta que contiene las pruebas de regresion entre la version 3.3.0 de Ghost y la version 3.42.5 de Ghost con Kraken
   6. monkeyTest: contiene las pruebas desarrolladas como pruebas aleatorias. 
+  7. ExploracionManual: contiene el documento de las pruebas realizadas de forma manual en la aplicacion. 
   
 
 ## Prerequisitos:
