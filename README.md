@@ -1,7 +1,7 @@
 # Estrategia_final_ghost
 
 repositorio para la sustentacion de la Estrategia final del Aplicativo Ghost 3.42.5
-
+El documento que explica la estrategia de prueba es el archivo [Estrategia de pruebas Final.pdf](https://github.com/abaron10/Estrategia_final_ghost/blob/main/Estrategia%20de%20pruebas%20%20Final.pdf)
 
 ## Descripcion de Carpetas
 
