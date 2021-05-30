@@ -19,7 +19,10 @@ repositorio para la sustentacion de la Estrategia final del Aplicativo Ghost 3.4
   1. Contar con ghost 3.3.0 Instalado y en ejecucion.
   2. Contar con ghost 3.42.5 Instalado y en ejecucion. (ver documentacion de ghost: https://ghost.org/docs/ )
   3. Realize las respectivas configuraciones segun la carpeta que desee ejecutar, en cada una encontrara un readme con los requisitos respectivos. 
-  
+
+## Issues
+  Las insidencias reportadas hasta la fecha se reportadon en los Issues de este repositorio. [ver mas ...](https://github.com/abaron10/Estrategia_final_ghost/issues)
+
 ## Nota:
 
-En la wiki podra encontrar mas informacion sobre las herramientas utilizadas. [IR](https://github.com/abaron10/Estrategia_final_ghost/wiki)
+En la wiki podra encontrar mas informacion sobre las herramientas utilizadas. [ver mas ...](https://github.com/abaron10/Estrategia_final_ghost/wiki)
